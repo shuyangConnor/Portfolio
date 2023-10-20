@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.56c3db6a.css",
-    "main.js": "/Portfolio/static/js/main.6bcd8de8.js",
+    "main.js": "/Portfolio/static/js/main.f1742fe1.js",
     "static/media/Netflex_React.png": "/Portfolio/static/media/Netflex_React.2e0095b6c8af16a37c02.png",
     "static/media/realestate.jpg": "/Portfolio/static/media/realestate.44fd19f4c6872731149c.jpg",
     "static/media/Natours.png": "/Portfolio/static/media/Natours.954134bc57bf64bc97e4.png",
     "static/media/Electron.png": "/Portfolio/static/media/Electron.9f6930068ccc4042369e.png",
-    "static/media/Resume_Connor_Lin.pdf": "/Portfolio/static/media/Resume_Connor_Lin.89ab3f9c88cca8004055.pdf",
+    "static/media/Resume_Connor_Lin.pdf": "/Portfolio/static/media/Resume_Connor_Lin.c43d6e26ce635d2ad20a.pdf",
     "static/media/Mit_6.824.png": "/Portfolio/static/media/Mit_6.824.b4a2f64142466eec2276.png",
     "static/media/workImg.jpeg": "/Portfolio/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
     "static/media/SavorSeeker.png": "/Portfolio/static/media/SavorSeeker.1edccf9646e8f0703c49.png",
@@ -25,10 +25,10 @@
     "static/media/javascript.png": "/Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/Portfolio/index.html",
     "main.56c3db6a.css.map": "/Portfolio/static/css/main.56c3db6a.css.map",
-    "main.6bcd8de8.js.map": "/Portfolio/static/js/main.6bcd8de8.js.map"
+    "main.f1742fe1.js.map": "/Portfolio/static/js/main.f1742fe1.js.map"
   },
   "entrypoints": [
     "static/css/main.56c3db6a.css",
-    "static/js/main.6bcd8de8.js"
+    "static/js/main.f1742fe1.js"
   ]
 }
