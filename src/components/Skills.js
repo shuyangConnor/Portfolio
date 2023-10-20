@@ -9,6 +9,11 @@ import FireBase from '../assets/firebase.png'
 import GitHub from '../assets/github.png'
 import Tailwind from '../assets/tailwind.png'
 import Mongo from '../assets/mongo.png'
+import Postman from '../assets/Postman.png'
+import Vue from '../assets/Vue.png'
+import SQL from '../assets/SQL.png'
+import Express from '../assets/Express.png'
+import Electron from '../assets/Electron.png'
 
 const Skills = () => {
   return (
@@ -55,14 +60,40 @@ const Skills = () => {
             />
             <p className="my-4 transform scale-110">REACT</p>
           </div>
+
+          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+            <img
+              className="w-20 mx-auto transform scale-110"
+              src={Vue}
+              alt="Vue icon"
+            />
+            <p className="my-4 transform scale-110">Vue</p>
+          </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img
               className="w-20 mx-auto transform scale-110"
               src={Node}
               alt="Node icon"
             />
-            <p className="my-4 transform scale-110">NODE</p>
+            <p className="my-4 transform scale-110">NODE.JS</p>
           </div>
+          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+            <img
+              className="w-20 mx-auto transform scale-110"
+              src={Express}
+              alt="Express icon"
+            />
+            <p className="my-4 transform scale-110">EXPRESS</p>
+          </div>
+          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+            <img
+              className="w-20 mx-auto transform scale-110"
+              src={Electron}
+              alt="Electron icon"
+            />
+            <p className="my-4 transform scale-110">ELECTRON</p>
+          </div>
+
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img
               className="w-20 mx-auto transform scale-110"
@@ -70,6 +101,14 @@ const Skills = () => {
               alt="Mongo icon"
             />
             <p className="my-4 transform scale-110">MONGO DB</p>
+          </div>
+          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+            <img
+              className="w-20 mx-auto transform scale-110"
+              src={SQL}
+              alt="SQL icon"
+            />
+            <p className="my-4 transform scale-110">SQL</p>
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img
@@ -82,10 +121,10 @@ const Skills = () => {
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img
               className="w-20 mx-auto transform scale-110"
-              src={Tailwind}
-              alt="Tailwind icon"
+              src={Postman}
+              alt="Postman icon"
             />
-            <p className="my-4 transform scale-110">TAILWIND</p>
+            <p className="my-4 transform scale-110">POSTMAN</p>
           </div>
         </div>
       </div>
